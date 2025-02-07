@@ -1,2 +1,2 @@
 # crabber
-A fast and secure web browser written in Rust.
+A fast file browser written in Rust.
